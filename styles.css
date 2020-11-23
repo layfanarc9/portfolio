@@ -1,0 +1,70 @@
+body {
+    background-image:https://i.pinimg.com/originals/27/cc/4c/27cc4cde289e012208d50d21cd619921.jpg;
+    background-color:#fdcfdf;
+}
+.webdevelopment {
+     height: 300px;
+     width: 400px;  
+     position: absolute;
+     left: 100px;
+     bottom: 0;
+}
+.webdesinging {
+    height: 300px;
+    width: 400px;  
+    position: absolute;
+    right: 100px;
+    bottom: 0;
+}
+.development {
+    position: absolute;
+    left: 200px;  
+}
+.DESIGN {
+    position: absolute;
+    right: 200px;
+    
+}
+.profile {
+    height:300px;
+    width: 300px;
+    position: absolute;
+    right: 520px;
+    border-radius: 50%;
+}
+hr {
+ border-style: dotted;
+ border-width: 10px;
+ border-top: none;
+}
+.D1 {
+ height: 200px;
+ width: 200px;
+ position: absolute;
+ top: 0;
+ left: 0;
+}
+.D2 {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 0;
+    right: 0;
+   }
+ h1 {
+    font-family: 'Kaushan Script', cursive;
+ }
+ h3 {
+    font-family: 'Sansita Swashed', cursive;
+ }
+ h2 {
+    font-family: 'Sansita Swashed', cursive;
+ }
+h4 {
+    font-family: 'Sansita Swashed', cursive;
+}
+
+
+
+
+
